@@ -3,6 +3,5 @@
 
 
 int StraitXMain(Span<const char*> args){
-    Println("Hello From StraitX");
     return 0;
 }
